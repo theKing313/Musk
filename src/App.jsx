@@ -44,7 +44,7 @@ function App() {
         <div className="content lg:mt-36 mt-[5.3125rem] relative  z-10">
           <div className="container m-0">
             <div className="md:flex md:justify-between">
-              <div className="flex flex-col gap-y-20">
+              <div className="flex flex-col gap-y-20 justify-center">
                 <div className="title text-5xl text-white">
                   Путешествие <p className='text-base'>на красную планету</p>
                 </div>
